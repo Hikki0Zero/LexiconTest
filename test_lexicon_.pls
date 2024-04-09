@@ -2,7 +2,7 @@
 
 <lexicon version="1.0"
       xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
-      alphabet="sapi" xml:lang="en-US">
+      alphabet="x-microsoft-ups" xml:lang="en-US">
 
    <lexeme>
     <grapheme> blue </grapheme>
