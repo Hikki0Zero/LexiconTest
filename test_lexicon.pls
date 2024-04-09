@@ -6,7 +6,7 @@
 
   <lexeme>
     <grapheme>BTWa</grapheme>
-    <phoneme>B A Y  TH E  W A I</phoneme>
+    <phoneme>B U Y A</phoneme>
   </lexeme>
 
 </lexicon>
