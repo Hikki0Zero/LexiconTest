@@ -8,5 +8,10 @@
     <grapheme>BTWa</grapheme>
     <phoneme>B A Y TH E W A Y</phoneme>
   </lexeme>
+ <lexeme>
+    <grapheme>output</grapheme>
+    <phoneme>O U T P U T I N G</phoneme>
+  </lexeme>
+
 
 </lexicon>
